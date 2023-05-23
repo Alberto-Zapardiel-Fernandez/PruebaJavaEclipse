@@ -1,8 +1,7 @@
-# PruebaJavaEclipse
-Proyecto de una centralita telefónica, la cual gestiona las llamadas entrantes.
-Estas pueden ser Locales o Provinciales.
-Las locales tienen un precio fijo de 15€ por segundo.
-Las llamadas Provinciales tienen 3 franjas predefinidas:
+# Proyecto de una centralita telefónica, la cual gestiona las llamadas entrantes.
+Estas llamadas pueden ser <b>Locales</b> o <b>Provinciales</b>.
+Las <i>Locales</i> tienen un precio fijo de 15€ por segundo.
+Las llamadas <i>Provinciales</i> tienen 3 franjas predefinidas:
 
 <ol>
   <li>Franja 1 con un precio de 20€</li>
