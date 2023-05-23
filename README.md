@@ -1,6 +1,6 @@
 # Proyecto de una centralita telefónica, la cual gestiona las llamadas entrantes.
 Estas llamadas pueden ser <b>Locales</b> o <b>Provinciales</b>.<br>
-Las <i>Locales</i> tienen un precio fijo de 15€ por segundo.<br>
+Las llamadas<i>Locales</i> tienen un precio fijo de 15€ por segundo.<br>
 Las llamadas <i>Provinciales</i> tienen 3 franjas predefinidas:
 
 <ol>
